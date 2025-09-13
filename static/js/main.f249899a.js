@@ -20621,22 +20621,22 @@
                                     //     children: "Partner",
                                     //   }),
                                     // }),
-                                    // (0, _t.jsx)("li", {
-                                    //   children: (0, _t.jsx)(ot, {
-                                    //     to: "/terms-and-condition",
-                                    //     className:
-                                    //       "text-gray-900 hover:text-white transition-colors",
-                                    //     children: "Terms & Condition",
-                                    //   }),
-                                    // }),
-                                    // (0, _t.jsx)("li", {
-                                    //   children: (0, _t.jsx)(ot, {
-                                    //     to: "/privacy-policy",
-                                    //     className:
-                                    //       "text-gray-900 hover:text-white transition-colors",
-                                    //     children: "Privacy Policy",
-                                    //   }),
-                                    // }),
+                                    (0, _t.jsx)("li", {
+                                      children: (0, _t.jsx)(ot, {
+                                        to: "/terms-and-condition",
+                                        className:
+                                          "text-gray-900 hover:text-white transition-colors",
+                                        children: "Terms & Condition",
+                                      }),
+                                    }),
+                                    (0, _t.jsx)("li", {
+                                      children: (0, _t.jsx)(ot, {
+                                        to: "/privacy-policy",
+                                        className:
+                                          "text-gray-900 hover:text-white transition-colors",
+                                        children: "Privacy Policy",
+                                      }),
+                                    }),
                                   ],
                                 }),
                               ],
